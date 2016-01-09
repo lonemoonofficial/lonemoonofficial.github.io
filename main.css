@@ -1,0 +1,61 @@
+#tabs {
+  border-bottom: .5em solid #fff;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+#tabs li { 
+  display: inline; 
+  border-top: .1em solid #fff;
+  border-left: .1em solid #fff;
+  border-right: .1em solid #fff;
+} 
+
+#tabs li a {
+  text-decoration: none;
+  padding: 0.25em 1em; 
+}
+
+body {
+  font-family: "Open Sans";
+}
+
+.desc {
+  text-align: center;
+  margin: 20px;
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+  transition: .5s;
+}
+
+a:hover {
+  color: #8c8c88;
+}
+
+#whereisluna {
+  text-align: center;
+}
+
+img {
+  height: 200px;
+  width: 200px;
+  display: block; 
+  margin: 0 auto;  
+}
+
+.sc {
+  padding-left: 60px;
+  padding-right: 60px;
+  padding-top: 20px;
+  text-align: center;
+}
+
+.bc {
+  text-align: center;
+}
