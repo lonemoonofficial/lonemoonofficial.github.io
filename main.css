@@ -28,6 +28,12 @@ body {
   padding-right: 60px;
 }
 
+img {
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+  
 a {
   text-decoration: none;
   color: #000;
